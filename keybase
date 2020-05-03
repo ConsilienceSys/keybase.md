@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am consiliencesystems on github.
+  * I am christaylor17 (https://keybase.io/christaylor17) on keybase.
+  * I have a public key ASAnig7hQ0BdoCa_2hyi1XTCgbhpLYUaWz-yiSYink5tuwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce75ecbb1cbe9f4d12434852897d19541d69aef2f00f894493ef0e7e2a5fb6c80a",
+      "host": "keybase.io",
+      "kid": "0120278a0ee143405da026bfda1ca2d574c281b8692d851a5b3fb28926229e4e6dbb0a",
+      "uid": "9360134ea20e69c0423ef751623d0319",
+      "username": "christaylor17"
+    },
+    "merkle_root": {
+      "ctime": 1588482692,
+      "hash": "94e327b91d1abc26aa5cebcc7f29c86e7312969bbd6e921af9f3c58bc0e3cb3647b129577b7c6f163734c32817dcaf64cea095a4adcd1dd6eb5192581e0cb1a4",
+      "hash_meta": "8c42b692e36ccdc14bcf8cca95b222dfcae175a0a995a52f99782031a033e4b4",
+      "seqno": 16139148
+    },
+    "service": {
+      "entropy": "udsCvPtlTo7fEpody/kG60zo",
+      "name": "github",
+      "username": "consiliencesystems"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1588482704,
+  "expire_in": 504576000,
+  "prev": "7e8bdba451aa4f77ce376dfe53320023e0fc9410c2f06616acc0678cc99ff1ea",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASAnig7hQ0BdoCa_2hyi1XTCgbhpLYUaWz-yiSYink5tuwo](https://keybase.io/christaylor17), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ4oO4UNAXaAmv9ocotV0woG4aS2FGls/sokmIp5ObbsKp3BheWxvYWTESpcCDsQgfovbpFGqT3fON23+UzIAI+D8lBDC8GYWrMBnjMmf8erEIHFjIEw1NC9eP1JVk2wd6gCn0yTYDEJ2VbqUeLXKFdyCAgHCo3NpZ8RAqwiTEXWHSrPP1DHia07zEDqTeDic2QXBK/Iw/Ium1bw7+zx3h1hA9MzLHkRcVQiDK5RwdTVxKD7lKUNjdFwqA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKLf97UYniURAXKnevlGIbQZPCig6s158vgL1jOwemfoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/christaylor17
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id christaylor17
+```
